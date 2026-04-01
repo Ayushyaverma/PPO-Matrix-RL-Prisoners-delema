@@ -1,0 +1,3 @@
+phase,num_episodes,avg_reward,coop_rate,mutual_coop_rate,mutual_defect_rate,exploit_rate,exploited_rate,invalid_rate,use_mapped
+with_rl_naive,500,-2.0,0.0,0.0,0.0,0.0,0.0,1.0,0
+with_rl_mapped,500,3.0,0.0,0.0,0.0,1.0,0.0,0.0,1

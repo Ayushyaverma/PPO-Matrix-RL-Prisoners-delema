@@ -1,0 +1,56 @@
+Using device: cuda
+Loading model & tokenizer...
+Starting PPO training loop...
+
+[Update 001] avg_reward=-2.000 ma_reward=-0.200 invalid_rate=1.00 ma_invalid=0.10
+[Update 002] avg_reward=-1.500 ma_reward=-0.330 invalid_rate=0.88 ma_invalid=0.18
+[Update 003] avg_reward=-0.875 ma_reward=-0.385 invalid_rate=0.75 ma_invalid=0.23
+[Update 004] avg_reward=-1.500 ma_reward=-0.496 invalid_rate=0.88 ma_invalid=0.30
+[Update 005] avg_reward=-1.500 ma_reward=-0.596 invalid_rate=0.88 ma_invalid=0.36
+[Update 006] avg_reward=-1.500 ma_reward=-0.687 invalid_rate=0.88 ma_invalid=0.41
+[Update 007] avg_reward=-2.000 ma_reward=-0.818 invalid_rate=1.00 ma_invalid=0.47
+[Update 008] avg_reward=-2.000 ma_reward=-0.936 invalid_rate=1.00 ma_invalid=0.52
+[Update 009] avg_reward=-2.000 ma_reward=-1.043 invalid_rate=1.00 ma_invalid=0.57
+[Update 010] avg_reward=-2.000 ma_reward=-1.138 invalid_rate=1.00 ma_invalid=0.61
+[Update 011] avg_reward=-2.000 ma_reward=-1.225 invalid_rate=1.00 ma_invalid=0.65
+[Update 012] avg_reward=-2.000 ma_reward=-1.302 invalid_rate=1.00 ma_invalid=0.69
+[Update 013] avg_reward=-2.000 ma_reward=-1.372 invalid_rate=1.00 ma_invalid=0.72
+[Update 014] avg_reward=-2.000 ma_reward=-1.435 invalid_rate=1.00 ma_invalid=0.75
+[Update 015] avg_reward=-1.375 ma_reward=-1.429 invalid_rate=0.88 ma_invalid=0.76
+[Update 016] avg_reward=-2.000 ma_reward=-1.486 invalid_rate=1.00 ma_invalid=0.78
+[Update 017] avg_reward=-1.375 ma_reward=-1.475 invalid_rate=0.88 ma_invalid=0.79
+[Update 018] avg_reward=-2.000 ma_reward=-1.527 invalid_rate=1.00 ma_invalid=0.81
+[Update 019] avg_reward=-0.750 ma_reward=-1.450 invalid_rate=0.75 ma_invalid=0.81
+[Update 020] avg_reward=+1.125 ma_reward=-1.192 invalid_rate=0.38 ma_invalid=0.76
+[Update 021] avg_reward=+1.750 ma_reward=-0.898 invalid_rate=0.25 ma_invalid=0.71
+[Update 022] avg_reward=+1.500 ma_reward=-0.658 invalid_rate=0.25 ma_invalid=0.67
+[Update 023] avg_reward=+1.625 ma_reward=-0.430 invalid_rate=0.25 ma_invalid=0.62
+[Update 024] avg_reward=-0.750 ma_reward=-0.462 invalid_rate=0.75 ma_invalid=0.64
+[Update 025] avg_reward=-0.250 ma_reward=-0.441 invalid_rate=0.62 ma_invalid=0.64
+[Update 026] avg_reward=+1.750 ma_reward=-0.222 invalid_rate=0.25 ma_invalid=0.60
+[Update 027] avg_reward=+1.500 ma_reward=-0.049 invalid_rate=0.25 ma_invalid=0.56
+[Update 028] avg_reward=+0.375 ma_reward=-0.007 invalid_rate=0.50 ma_invalid=0.56
+[Update 029] avg_reward=+0.375 ma_reward=+0.031 invalid_rate=0.50 ma_invalid=0.55
+[Update 030] avg_reward=-1.500 ma_reward=-0.122 invalid_rate=0.88 ma_invalid=0.58
+[Update 031] avg_reward=-1.000 ma_reward=-0.210 invalid_rate=0.75 ma_invalid=0.60
+[Update 032] avg_reward=-1.500 ma_reward=-0.339 invalid_rate=0.88 ma_invalid=0.63
+[Update 033] avg_reward=-1.000 ma_reward=-0.405 invalid_rate=0.75 ma_invalid=0.64
+[Update 034] avg_reward=-1.500 ma_reward=-0.514 invalid_rate=0.88 ma_invalid=0.66
+[Update 035] avg_reward=-2.000 ma_reward=-0.663 invalid_rate=1.00 ma_invalid=0.70
+[Update 036] avg_reward=-1.000 ma_reward=-0.697 invalid_rate=0.75 ma_invalid=0.70
+[Update 037] avg_reward=-1.500 ma_reward=-0.777 invalid_rate=0.88 ma_invalid=0.72
+[Update 038] avg_reward=+0.125 ma_reward=-0.687 invalid_rate=0.50 ma_invalid=0.70
+[Update 039] avg_reward=-2.000 ma_reward=-0.818 invalid_rate=1.00 ma_invalid=0.73
+[Update 040] avg_reward=-0.375 ma_reward=-0.774 invalid_rate=0.62 ma_invalid=0.72
+[Update 041] avg_reward=-0.375 ma_reward=-0.734 invalid_rate=0.62 ma_invalid=0.71
+[Update 042] avg_reward=+1.125 ma_reward=-0.548 invalid_rate=0.25 ma_invalid=0.66
+[Update 043] avg_reward=-2.000 ma_reward=-0.693 invalid_rate=1.00 ma_invalid=0.70
+[Update 044] avg_reward=-0.875 ma_reward=-0.711 invalid_rate=0.75 ma_invalid=0.70
+[Update 045] avg_reward=-0.375 ma_reward=-0.678 invalid_rate=0.62 ma_invalid=0.69
+[Update 046] avg_reward=-1.375 ma_reward=-0.747 invalid_rate=0.88 ma_invalid=0.71
+[Update 047] avg_reward=-1.500 ma_reward=-0.823 invalid_rate=0.88 ma_invalid=0.73
+[Update 048] avg_reward=-0.375 ma_reward=-0.778 invalid_rate=0.62 ma_invalid=0.72
+[Update 049] avg_reward=-0.750 ma_reward=-0.775 invalid_rate=0.75 ma_invalid=0.72
+[Update 050] avg_reward=-2.000 ma_reward=-0.898 invalid_rate=1.00 ma_invalid=0.75
+
+Saved adapted model to: ppo_llm_matrix_game
